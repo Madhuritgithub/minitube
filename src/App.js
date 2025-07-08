@@ -29,7 +29,7 @@ const App = () => {
         params: {
           part: "snippet",
           maxResults: 12,
-          key: "AIzaSyCHLrqz5EFasDeZu0yICzxQRAndIyGjGO4",
+          key: "AIzaSyBtmhtTG4dK8gX_jIaeKLNJDWHCs0-CYYg",
           q: searchTerm,
         },
       });
